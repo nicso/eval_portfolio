@@ -199,10 +199,10 @@ header {
     height: 80vh;
     filter: saturate(0) brightness(60%);
     //object-fit: cover;
-    transition: 1s;
+    transition: 0.25s;
 
     &:hover {
-      transition: 1s;
+      transition: 2s;
       filter: saturate(1.2);
     }
   }
